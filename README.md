@@ -6,6 +6,7 @@ The goal of this project is to allow a user to make a running tracker of their m
 
 ## Pictures
 
+![Budget Tracker](https://user-images.githubusercontent.com/78775177/126024607-f020505d-4659-438d-8eb9-5c293c3ee3cf.PNG)
 
 ## Table of Contents
 
