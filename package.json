@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/thomasbolling87/Budget-Tracker-Plus.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/coding-boot-camp/unit18hw/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://thomasbolling87.github.io/Budget-Tracker-Plus",
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^10.0.0",
